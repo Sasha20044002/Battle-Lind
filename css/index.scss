@@ -1179,4 +1179,14 @@ body {
             }
         }
     }
+
+    .footer {
+        &__info {
+
+            .about,
+            .product {
+                margin-right: 30px;
+            }
+        }
+    }
 }

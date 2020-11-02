@@ -1207,5 +1207,9 @@ body {
     padding-top: 0;
     padding-bottom: 0px;
   }
+  .footer__info .about,
+  .footer__info .product {
+    margin-right: 30px;
+  }
 }
 /*# sourceMappingURL=index.css.map */
